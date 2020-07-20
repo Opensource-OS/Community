@@ -1,43 +1,40 @@
-# OpenOS-Community
-# Title / Repository Name
+# OpenOS-Community 사용 가이드
 
-## 과제명
+## OpenOS-Community 개요
 
-* 개방형OS를 위한 커널형 문서 보안 기술(샘플)
+* 정의, 역활 등의 내용을 등록
+* 공개SW URL 소개
 
-## 총 수행기간
+## OpenOS-Community 활용방법
 
-* 2020.05.01 ~ 2020.11.30
+* 프로젝트 구성원
+  * 각 프로젝트 별 역활 및 관계를 이미지로 작성 예정
+  * OpenOS-Communty
+  * 구름OS, 하모니카OS, 티맥스OS
+  * 보안 및 응용SW
+  
+* Issue 활용 방법
+  * 목적
+    * 프로젝트 문제해결을 위한 소통의 창구
+  * 활용방안
+    * 문의사항 등록
+    * 위험관리 등록
+    * 등록 시 해당 개방형OS 프로젝트 선택 후 issue 등록
+* Wiki 활용 방법
+  * 공지사항 - 저장소 파일 링크
+  * 회의록 - 저장소 파일 링크
+  * 개발환경 표준화
+    * 커널 로드맵
+    * 커널별 개발 표준환경
+  
+## 공개SW 라이선스 고지
 
-## 공개SW 라이선스
+* 구름
+* 하모니카
+* 티맥스
 
-* [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+## 메일링 리스트
 
-## 공개범위
-
-* 
-
-## 개방형OS
-
-* 
-
-## 개발목표
-
-*
-
-## 개발내용
-
-*
-*
-
-## 과제수행방법
-
-* 
-
-## 최종 산출물
-
-*
-
-## 결과활용 및 기대효과
-
-*
+* OpenOS-Communty : support@oss.kr
+* 개방형OS 3사
+* 보안 및 응용SW
