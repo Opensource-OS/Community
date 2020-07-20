@@ -3,7 +3,7 @@
 ## OpenOS-Community 개요
 
 * 정의, 역활 등의 내용을 등록
-* 공개SW URL 소개
+* 공개SW 포털 개방형OS 활성화 협의체 : https://www.oss.kr/open_os
 
 ## OpenOS-Community 활용방법
 
