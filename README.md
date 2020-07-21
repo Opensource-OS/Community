@@ -7,7 +7,7 @@
 
 ## OpenOS-Community 활용방법
 
-* 프로젝트 구성원
+* 개방형OS 활성화 협의체 구성원
   * 각 프로젝트 별 역활 및 관계를 이미지로 작성 예정
   * OpenOS-Communty
   * 구름OS, 하모니카OS, 티맥스OS
