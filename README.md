@@ -14,8 +14,8 @@
 * 개방형OS 활성화 협의체 구성원
   * [NIPA](https://www.nipa.kr/)
   * OpenUP
-  * [한글과컴퓨터-구름OS](https://gooroom.kr/content/intro/), [인베슘-하모니카OS](https://hamonikr.org/), 티맥스-티맥스OS
-  * 보안 및 응용SW
+  * 개방형OS( [한글과컴퓨터-구름OS](https://gooroom.kr/content/intro/), [인베슘-하모니카OS](https://hamonikr.org/), [티맥스A&C-티맥스OS OE](https://tmaxanc.com/#!/download/TmaxOSOE/intro))
+  * 보안 및 응용SW(마크애니, 세이퍼존, 소만사, 아신아이, 안랩, 윤디스크, 지인소프트, 한싹시스템)
   
 * Issue 활용 방법
   * 목적
