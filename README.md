@@ -12,9 +12,9 @@
 ## OpenOS-Community 활용방법
 
 * 개방형OS 활성화 협의체 구성원
-  * 각 프로젝트 별 역활 및 관계를 이미지로 작성 예정
-  * OpenOS-Communty
-  * 구름OS, 하모니카OS, 티맥스OS
+  * [NIPA](https://www.nipa.kr/)
+  * OpenUP
+  * [한글과컴퓨터-구름OS](https://gooroom.kr/content/intro/), [인베슘-하모니카OS](https://hamonikr.org/), 티맥스-티맥스OS
   * 보안 및 응용SW
   
 * Issue 활용 방법
