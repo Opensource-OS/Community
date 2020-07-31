@@ -35,14 +35,16 @@
     * 커널 로드맵 - 개방형OS 3사와 협의할 항목
     * 커널별 개발 표준환경
   
-## 공개SW 라이선스 고지 - 각 개방형OS 3사로 이전 예정
+## Member
 
-* 구름
-* 하모니카
-* 티맥스
+* 안랩
+  * cell26
+* 지인소프트
+  * haewookjung-zeinsoft
+  * jeongheepark-zein
+
 
 ## 메일링 리스트
 
-* OpenOS-Communty : support@oss.kr
-* 개방형OS 3사 : 메일 요청 예정
-* 보안 및 응용SW : 메일 요청 
+* OpenOS-Communty : support@oss.kr / ikkim@oss.kr
+
