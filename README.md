@@ -26,7 +26,7 @@
     * 문의사항 등록
     * 위험관리 등록
     * 멤버에게 권한이 주어진 Issue 프로젝트 선택 후 등록
-    * [Issue 링크](https://github.com/Opensource-OS/OpenOS_Issue/issues)
+    * [Issue 등록 링크](https://github.com/Opensource-OS/OpenOS_Issue/issues)
 * Wiki 활용 방법
   * 주 사용자
     * 개방형OS 활성화 협의체
