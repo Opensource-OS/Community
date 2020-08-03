@@ -21,28 +21,31 @@
   * 목적
     * 프로젝트 문제해결을 위한 소통의 창구
   * 주 사용자
-    * 개방형OS, 보안 및 응용SW 구성원
+    * 개방형OS, 보안 및 응용SW 구성원 중 프로젝트 가입된 멤버
   * 활용방안
     * 문의사항 등록
     * 위험관리 등록
-    * 등록 시 해당 개방형OS 프로젝트 선택 후 issue 등록
+    * 멤버에게 권한이 주어진 Issue 프로젝트 선택 후 등록
+    * [Issue 등록 링크](https://github.com/Opensource-OS/OpenOS_Issue/issues)
 * Wiki 활용 방법
   * 주 사용자
-    * OpenUP
-  * 공지사항 - 저장소 파일 링크
-  * 회의록 - 저장소 파일 링크
+    * 개방형OS 활성화 협의체
+  * 공지사항
+  * 회의록 
   * 개발환경 표준화
-    * 커널 로드맵
+    * 커널 로드맵 - 개방형OS 3사와 협의할 항목
     * 커널별 개발 표준환경
   
-## 공개SW 라이선스 고지
+## Member 현황
 
-* 구름
-* 하모니카
-* 티맥스
+* 안랩
+  * cell26
+* 지인소프트
+  * haewookjung-zeinsoft
+  * jeongheepark-zein
+
 
 ## 메일링 리스트
 
-* OpenOS-Communty : support@oss.kr
-* 개방형OS 3사 : 메일 요청 예정
-* 보안 및 응용SW : 메일 요청 
+* OpenOS-Communty : support@oss.kr / ikkim@oss.kr
+
