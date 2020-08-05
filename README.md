@@ -44,7 +44,7 @@
     * 예)ikkim_openup
   * 변경 방법
     * 로그인 후 우측 상단 아이콘 클릭
-    ![프로파일 세팅 01](https://user-images.githubusercontent.com/68671972/89360112-58ec2980-d702-11ea-87cd-9222cf9a6b83.png)
+    ![프로파일 세팅 01](https://user-images.githubusercontent.com/68671972/89360167-820cba00-d702-11ea-91d7-f52c59da9796.png)
     * Setting 클릭
     ![프로파일 세팅 02](https://user-images.githubusercontent.com/68671972/89359956-03178180-d702-11ea-9a63-1abf12a3011c.png)
     
