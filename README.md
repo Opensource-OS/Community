@@ -38,11 +38,16 @@
   
 ## Member 현황
 
-* 안랩
-  * cell26
-* 지인소프트
-  * haewookjung-zeinsoft
-  * jeongheepark-zein
+* 멤버 초대 받으신 후 프로파일 변경 방법
+  * 프로파일 네이밍 룰
+    * (영문 이름 약자)_(소속기관/기업)
+    * 예)ikkim_openup
+  * 변경 방법
+    * 로그인 후 우측 상단 아이콘 클릭
+    ![프로파일 세팅 01](https://user-images.githubusercontent.com/68671972/89359952-014dbe00-d702-11ea-85ca-a47da8bdaa7a.png)
+    * Setting 클릭
+    ![프로파일 세팅 02](https://user-images.githubusercontent.com/68671972/89359956-03178180-d702-11ea-9a63-1abf12a3011c.png)
+    
 
 
 ## 메일링 리스트
