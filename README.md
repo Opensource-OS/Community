@@ -13,34 +13,35 @@
   * (개방형 OS 도입 공공기관) 과학기술정보통신부
   * (개방형 OS 도입 민간기업)
   
-    #### 커뮤니티 가입 문의 : 02-561-0951, support@oss.kr
+  #### 커뮤니티 가입 문의 : 02-561-0951, support@oss.kr
 
 ## 주요기능
 
-* 개방형OS 활성화 협의체 구성원
-  * [NIPA](https://www.nipa.kr/)
-  * OpenUP
-  * 개방형OS( [한글과컴퓨터-구름OS](https://gooroom.kr/content/intro/), [인베슘-하모니카OS](https://hamonikr.org/), [티맥스A&C-티맥스OS OE](https://tmaxanc.com/#!/download/TmaxOSOE/intro))
-  * 보안 및 응용SW(마크애니, 세이퍼존, 소만사, 아신아이, 안랩, 윤디스크, 지인소프트, 한싹시스템, 이스트소프트, 넷맨, 지니언스)
+* Code
+  * 개방형 OS 활성화 커뮤니티 안내
+  * 관련 매뉴얼, 가이드, 문서자료, SW 설치파일 등 다운로드
   
-* Issue 활용 방법
-  * 목적
-    * 프로젝트 문제해결을 위한 소통의 창구
-  * 주 사용자
-    * 개방형OS, 보안 및 응용SW 구성원 중 프로젝트 가입된 멤버
-  * 활용방안
-    * 문의사항 등록
-    * 위험관리 등록
-    * 멤버에게 권한이 주어진 Issue 프로젝트 선택 후 등록
-    * [Issue 등록 링크](https://github.com/Opensource-OS/OpenOS_Issue/issues)
-* Wiki 활용 방법
-  * 주 사용자
-    * 개방형OS 활성화 협의체
-  * 공지사항
-  * 회의록 
-  * 개발환경 표준화
-    * 커널 로드맵 - 개방형OS 3사와 협의할 항목
-    * 커널별 개발 표준환경
+* Issue
+  * 개방형 OS 활성화를 위한 소통 창구
+  * 정책 제언, 개발 요구사항, 버그 리포트, 호환성 문제 등 등록
+  
+* Pull requests
+  * 활용계획 없음
+  
+* Wiki
+  * 커뮤니티 관련 공지사항
+  * 커뮤니티 오프라인 회의록
+  * 개방형 OS 개발 및 사용 환경 정보
+  
+* Security
+  * 활용계획 없음
+  
+* Insights
+  * 커뮤니티 통계(참고용)
+  
+* Settings
+  * 커뮤니티 환경설정
+
   
 ## Member 가입후 할일
 
@@ -67,5 +68,6 @@
 
 ## 메일링 리스트
 
-* OpenOS-Communty : support@oss.kr / ikkim@oss.kr
+* NIPA : dhkim@nipa.kr, owo2323@nipa.kr
+* OpenOS-Communty : support@oss.kr, ikkim@oss.kr
 
