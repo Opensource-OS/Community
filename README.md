@@ -13,9 +13,9 @@
   * (개방형 OS 도입 공공기관) 과학기술정보통신부
   * (개방형 OS 도입 민간기업)
   
-#### 커뮤니티 가입 문의 : 02-561-0951, support@oss.kr
+    #### 커뮤니티 가입 문의 : 02-561-0951, support@oss.kr
 
-## OpenOS-Community 활용방법
+## 주요기능
 
 * 개방형OS 활성화 협의체 구성원
   * [NIPA](https://www.nipa.kr/)
