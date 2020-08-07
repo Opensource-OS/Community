@@ -51,6 +51,11 @@
     
     ![프로파일 세팅 02](https://user-images.githubusercontent.com/68671972/89359956-03178180-d702-11ea-9a63-1abf12a3011c.png)
     
+* 프로젝트 등록 글 및 변경 사항이 메일 알림
+  * 프로젝트 우측 상단에 Watch 클릭
+  
+  ![image](https://user-images.githubusercontent.com/68671972/89595374-4e12cf80-d88f-11ea-9dba-cca389425281.png)
+    
 
 
 ## 메일링 리스트
