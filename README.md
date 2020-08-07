@@ -51,7 +51,7 @@
     
     ![프로파일 세팅 02](https://user-images.githubusercontent.com/68671972/89359956-03178180-d702-11ea-9a63-1abf12a3011c.png)
     
-* 프로젝트 등록 글 및 변경 사항이 메일 알림
+* 프로젝트 등록 글 및 변경 사항 메일 알림
   * 프로젝트 우측 상단에 Watch 클릭 -> unwatch 변경됨
   
   ![watch](https://user-images.githubusercontent.com/68671972/89596097-4eac6580-d891-11ea-8bde-eddd08417218.png)
