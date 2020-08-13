@@ -43,10 +43,11 @@
   
 ## 3. 가입 및 기타 문의
 
-* NIPA : dhkim@nipa.kr
-* OpenUP : support@oss.kr
+* 개방형OS 정책 관련 문의
+   * NIPA : dhkim@nipa.kr
 
-  #### 커뮤니티 가입 문의 : 02-561-0951, support@oss.kr
+* 개방형OS 도입 및 커뮤니티 가입 문의
+   * OpenUP : support@oss.kr(02-561-0951)
 
   
 ## 4. Member 가입후 할일
