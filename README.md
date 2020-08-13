@@ -44,7 +44,7 @@
 ## 3. 가입 및 기타 문의
 
 * NIPA : dhkim@nipa.kr
-* OpenUP : support@oss.kr사
+* OpenUP : support@oss.kr
 
   #### 커뮤니티 가입 문의 : 02-561-0951, support@oss.kr
 
