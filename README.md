@@ -13,7 +13,6 @@
   * (개방형 OS 도입 공공기관) 과학기술정보통신부
   * (개방형 OS 도입 민간기업)
   
-  #### 커뮤니티 가입 문의 : 02-561-0951, support@oss.kr
 
 ## 2. 주요기능
 
@@ -41,9 +40,17 @@
   
 * Settings
   * 커뮤니티 환경설정
+  
+## 3. 가입 및 기타 문의
+
+* NIPA : dhkim@nipa.kr
+* OpenOS-Communty : support@oss.kr
+
+
+  #### 커뮤니티 가입 문의 : 02-561-0951, support@oss.kr
 
   
-## 3. Member 가입후 할일
+## 4. Member 가입후 할일
 
 * 멤버 초대 받으신 후 프로파일 변경 방법
   * 프로파일 네이밍 룰
@@ -63,11 +70,5 @@
   
   ![watch](https://user-images.githubusercontent.com/68671972/89596097-4eac6580-d891-11ea-8bde-eddd08417218.png)
 
-    
 
-
-## 4. 메일링 리스트
-
-* NIPA : dhkim@nipa.kr, owo2323@nipa.kr
-* OpenOS-Communty : support@oss.kr, ikkim@oss.kr
 
