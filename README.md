@@ -43,7 +43,7 @@
 ## 3. 가입 및 기타 문의
 
 * 개방형OS 정책 관련 문의
-   * NIPA : @nipa.kr
+   * NIPA : wmsong@nipa.kr
 
 * 개방형OS 도입 및 커뮤니티 가입 문의
    * OpenUP : support@oss.kr(02-561-0951)
