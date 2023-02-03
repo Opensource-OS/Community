@@ -46,7 +46,7 @@
    * NIPA : wmsong@nipa.kr
 
 * 개방형OS 도입 및 커뮤니티 가입 문의
-   * OpenUP : consulting@oss.kr(02-561-0957)
+   * OpenUP : consulting@oss.kr(02-6241-6510)
 
   
 ## 4. Member 가입후 할일
